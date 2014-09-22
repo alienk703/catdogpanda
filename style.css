@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway+Dots);
 
 body {
+  background-color: rgb(255,0,0);
   height: 700px;
   margin: 0;
   padding: 0;
@@ -36,9 +37,9 @@ img{
 }
 
 .dog{
-  left: 600px;
+  left: 500px;
 }
 
 .panda{
-  left: 1000px;
+  left: 800px;
 }
